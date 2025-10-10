@@ -1,3 +1,8 @@
-# CsharpL1
+# .NETworking - CsharpL1
 
-C# examples and exercises.
+Bu repo, C#/.NET örnekleri ve alıştırmalarını içerir.
+
+- Proje: CsharpL1
+- İçerik: Konsol uygulamaları, OOP örnekleri, koleksiyonlar, metodlar ve daha fazlası
+
+Yerel proje bu repoya senkronize edilmiştir.
