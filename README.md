@@ -1,0 +1,2 @@
+# .NETworking
+.NET working folders
