@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.ComponentModel;
 using System.ComponentModel.Design;
 using System.Text;
@@ -12,7 +12,11 @@ class Program
 {
     public static void Main(string[] args)
     {
-       
+       // Days days = Days.Thursday;
+        
+
+        System.Console.WriteLine("Day: " + Days.Thursday);
+
 
     }
 
